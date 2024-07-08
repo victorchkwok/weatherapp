@@ -2,6 +2,9 @@ body{
   margin: 0;
   padding: 0;
   background-image: url("./components/BG.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .App{
   text-align:center;
